@@ -2,7 +2,7 @@
   "name": "vuex-test",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Sebastian Eschweiler <sebastian.eschweiler@gmail.com>",
+  "author": "Julio Leiva",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
